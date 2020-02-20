@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Mvc\Mappers\" />
-    <Folder Include="Mvc\ViewModel\" />
   </ItemGroup>
 
   <ItemGroup>
